@@ -3,18 +3,13 @@
   <img src="https://media3.giphy.com/media/igRW3jH2LcCVzMqi5F/giphy.gif" height="auto" width="200px"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IrfanAnwar009&style=flat-square&color=blue" alt=""/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/irfan-anwar-985489269/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/jamalaidev?t=KZDCxTuaaMgWhfu0JZXYtg&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="jamal.webdev.ai@gmail.com">
+
+  <a href="irfananwarsoomro95@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -30,7 +25,7 @@
 
 </hr>
 
-### :woman_technologist: About Me. :
+### :man_technologist: About Me. :
 </br>
 
 ### Study:
