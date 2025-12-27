@@ -29,7 +29,7 @@
 </br>
 
 ### Study:
-    I'm Irfan Anwar, a Computer Science enthusiast currently pursuing my graduation with a focus on Data Science,Machine Learning,Deep Learning and Artificial Intelligence  at Sukkur IBA       University, Pakistan. 
+    I'm Irfan Anwar, a Computer Science enthusiast currently pursuing my graduation with a focus on Web Development,Data Science,Machine Learning,Deep Learning and Artificial Intelligence  at Sukkur IBA University, Pakistan. 
     Passionate about exploring the frontiers of technology and its applications, I'm on a journey to dive deep into the realm of AI and Machine Learning. 
     Join me as I learn, create, and contribute to the exciting world of Computer Science and AI.
 
@@ -39,19 +39,18 @@
 
     Degree: Bachelor of Science in Computer Science
     University: Sukkur IBA University, Pakistan
-    Specialization: Artificial Intelligence
+    
 
 ### Services / Interests:
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web Development:
       Languages:
           - Javascript
-          - PHP
           - HTML5
           - CSS3
       Front End:
           - ReactJS
-          - NextJS (Learning)
+          - NextJS 
       Back End:
           - NodeJS
           - ExpressJS
